@@ -1,0 +1,64 @@
+{
+  "ticker" : "AGLE",
+  "companyName" : null,
+  "date" : null,
+  "shares" : null,
+  "netIncome" : null,
+  "netCashFromOperatingActivities" : null,
+  "purchaseOfPlantPropertyAndEquipment" : null,
+  "annuals" : {
+    "Return on Investment Capitol" : [ {
+      "value" : 0,
+      "dataYear" : 2014,
+      "dateCalculated" : 1494561156162,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : -3.785547,
+      "dataYear" : 2015,
+      "dateCalculated" : 1494561156162,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : -16.948549,
+      "dataYear" : 2016,
+      "dateCalculated" : 1494561156162,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : -22.553597,
+      "dataYear" : 2017.0,
+      "dateCalculated" : 1494561155662,
+      "type" : "Return on Investment Capitol"
+    } ],
+    "ROIC Growth to Current" : [ {
+      "value" : 0.33070960823843976,
+      "dataYear" : 1.0,
+      "dateCalculated" : 1494561156162,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 1.440864025832088,
+      "dataYear" : 2.0,
+      "dateCalculated" : 1494561156162,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0,
+      "dataYear" : 3.0,
+      "dateCalculated" : 1494561156162,
+      "type" : "ROIC Growth to Current"
+    } ],
+    "ROIC Growth Rate" : [ {
+      "value" : 0,
+      "dataYear" : 2015,
+      "dateCalculated" : 1494561156162,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : 3.4771730479109095,
+      "dataYear" : 2016,
+      "dateCalculated" : 1494561156162,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : 0.33070960823843976,
+      "dataYear" : 2017.0,
+      "dateCalculated" : 1494561156162,
+      "type" : "ROIC Growth Rate"
+    } ]
+  }
+}

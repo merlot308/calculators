@@ -1,0 +1,139 @@
+{
+  "ticker" : "ADUS",
+  "companyName" : null,
+  "date" : null,
+  "shares" : null,
+  "netIncome" : null,
+  "netCashFromOperatingActivities" : null,
+  "purchaseOfPlantPropertyAndEquipment" : null,
+  "annuals" : {
+    "Return on Investment Capitol" : [ {
+      "value" : 0,
+      "dataYear" : 2009,
+      "dateCalculated" : 1494561098123,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.048766,
+      "dataYear" : 2010,
+      "dateCalculated" : 1494561098123,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.069191,
+      "dataYear" : 2011,
+      "dateCalculated" : 1494561098123,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.091907,
+      "dataYear" : 2012,
+      "dateCalculated" : 1494561098123,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.111742,
+      "dataYear" : 2013,
+      "dateCalculated" : 1494561098123,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.115771,
+      "dataYear" : 2014,
+      "dateCalculated" : 1494561098123,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.092597,
+      "dataYear" : 2015,
+      "dateCalculated" : 1494561098123,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.072524,
+      "dataYear" : 2016,
+      "dateCalculated" : 1494561098123,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.09355,
+      "dataYear" : 2017.0,
+      "dateCalculated" : 1494561097513,
+      "type" : "Return on Investment Capitol"
+    } ],
+    "ROIC Growth to Current" : [ {
+      "value" : 0.2899178203077599,
+      "dataYear" : 1.0,
+      "dateCalculated" : 1494561098123,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0.0051327823253397575,
+      "dataYear" : 2.0,
+      "dateCalculated" : 1494561098123,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : -0.06857475995212436,
+      "dataYear" : 3.0,
+      "dateCalculated" : 1494561098123,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : -0.04345184605198693,
+      "dataYear" : 4.0,
+      "dateCalculated" : 1494561098123,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0.003550057883294988,
+      "dataYear" : 5.0,
+      "dateCalculated" : 1494561098123,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0.051555899119666515,
+      "dataYear" : 6.0,
+      "dateCalculated" : 1494561098123,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0.09753428051282254,
+      "dataYear" : 7.0,
+      "dateCalculated" : 1494561098123,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0,
+      "dataYear" : 8.0,
+      "dateCalculated" : 1494561098123,
+      "type" : "ROIC Growth to Current"
+    } ],
+    "ROIC Growth Rate" : [ {
+      "value" : 0,
+      "dataYear" : 2010,
+      "dateCalculated" : 1494561098123,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : 0.4188368945576837,
+      "dataYear" : 2011,
+      "dateCalculated" : 1494561098123,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : 0.32830859504848897,
+      "dataYear" : 2012,
+      "dateCalculated" : 1494561098123,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : 0.21581598790081258,
+      "dataYear" : 2013,
+      "dateCalculated" : 1494561098123,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : 0.03605627248483123,
+      "dataYear" : 2014,
+      "dateCalculated" : 1494561098123,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : -0.20017102728662617,
+      "dataYear" : 2015,
+      "dateCalculated" : 1494561098123,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : -0.216778081363327,
+      "dataYear" : 2016,
+      "dateCalculated" : 1494561098123,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : 0.2899178203077599,
+      "dataYear" : 2017.0,
+      "dateCalculated" : 1494561098123,
+      "type" : "ROIC Growth Rate"
+    } ]
+  }
+}

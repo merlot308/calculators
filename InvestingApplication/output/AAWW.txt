@@ -1,0 +1,139 @@
+{
+  "ticker" : "AAWW",
+  "companyName" : null,
+  "date" : null,
+  "shares" : null,
+  "netIncome" : null,
+  "netCashFromOperatingActivities" : null,
+  "purchaseOfPlantPropertyAndEquipment" : null,
+  "annuals" : {
+    "Return on Investment Capitol" : [ {
+      "value" : 0,
+      "dataYear" : 2009,
+      "dateCalculated" : 1494560989793,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.17144,
+      "dataYear" : 2010,
+      "dateCalculated" : 1494560989795,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.07804,
+      "dataYear" : 2011,
+      "dateCalculated" : 1494560989792,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.079684,
+      "dataYear" : 2012,
+      "dateCalculated" : 1494560989794,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.065053,
+      "dataYear" : 2013,
+      "dateCalculated" : 1494560989793,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.073939,
+      "dataYear" : 2014,
+      "dateCalculated" : 1494560989792,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : -0.01815,
+      "dataYear" : 2015,
+      "dateCalculated" : 1494560989794,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.026427,
+      "dataYear" : 2016,
+      "dateCalculated" : 1494560989794,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.02589,
+      "dataYear" : 2017.0,
+      "dateCalculated" : 1494560989172,
+      "type" : "Return on Investment Capitol"
+    } ],
+    "ROIC Growth to Current" : [ {
+      "value" : -0.020320127142694933,
+      "dataYear" : 1.0,
+      "dateCalculated" : 1494560989795,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0,
+      "dataYear" : 2.0,
+      "dateCalculated" : 1494560989795,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : -0.2951671137566786,
+      "dataYear" : 3.0,
+      "dateCalculated" : 1494560989795,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : -0.20573361945181923,
+      "dataYear" : 4.0,
+      "dateCalculated" : 1494560989795,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : -0.20135792821114762,
+      "dataYear" : 5.0,
+      "dateCalculated" : 1494560989795,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : -0.16797610642317307,
+      "dataYear" : 6.0,
+      "dateCalculated" : 1494560989795,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : -0.2366615697299288,
+      "dataYear" : 7.0,
+      "dateCalculated" : 1494560989795,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0,
+      "dataYear" : 8.0,
+      "dateCalculated" : 1494560989795,
+      "type" : "ROIC Growth to Current"
+    } ],
+    "ROIC Growth Rate" : [ {
+      "value" : 0,
+      "dataYear" : 2010,
+      "dateCalculated" : 1494560989795,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : -0.5447970135324312,
+      "dataYear" : 2011,
+      "dateCalculated" : 1494560989795,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : 0.021066119938493166,
+      "dataYear" : 2012,
+      "dateCalculated" : 1494560989795,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : -0.18361277044325086,
+      "dataYear" : 2013,
+      "dateCalculated" : 1494560989795,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : 0.13659631377492198,
+      "dataYear" : 2014,
+      "dateCalculated" : 1494560989795,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : -1.2454726193213324,
+      "dataYear" : 2015,
+      "dateCalculated" : 1494560989795,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : -2.45603305785124,
+      "dataYear" : 2016,
+      "dateCalculated" : 1494560989795,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : -0.020320127142694933,
+      "dataYear" : 2017.0,
+      "dateCalculated" : 1494560989795,
+      "type" : "ROIC Growth Rate"
+    } ]
+  }
+}

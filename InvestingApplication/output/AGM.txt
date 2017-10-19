@@ -1,0 +1,139 @@
+{
+  "ticker" : "AGM",
+  "companyName" : null,
+  "date" : null,
+  "shares" : null,
+  "netIncome" : null,
+  "netCashFromOperatingActivities" : null,
+  "purchaseOfPlantPropertyAndEquipment" : null,
+  "annuals" : {
+    "Return on Investment Capitol" : [ {
+      "value" : 0,
+      "dataYear" : 2009,
+      "dateCalculated" : 1494561157511,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.00626,
+      "dataYear" : 2010,
+      "dateCalculated" : 1494561157511,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.004054,
+      "dataYear" : 2011,
+      "dateCalculated" : 1494561157511,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.006012,
+      "dataYear" : 2012,
+      "dateCalculated" : 1494561157511,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.007767,
+      "dataYear" : 2013,
+      "dateCalculated" : 1494561157511,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.0053,
+      "dataYear" : 2014,
+      "dateCalculated" : 1494561157511,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.00523,
+      "dataYear" : 2015,
+      "dateCalculated" : 1494561157511,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.005342,
+      "dataYear" : 2016,
+      "dateCalculated" : 1494561157511,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.005762,
+      "dataYear" : 2017.0,
+      "dateCalculated" : 1494561156699,
+      "type" : "Return on Investment Capitol"
+    } ],
+    "ROIC Growth to Current" : [ {
+      "value" : 0.07862223886184938,
+      "dataYear" : 1.0,
+      "dateCalculated" : 1494561157511,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0.049628906471325784,
+      "dataYear" : 2.0,
+      "dateCalculated" : 1494561157511,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0.028250970572169853,
+      "dataYear" : 3.0,
+      "dateCalculated" : 1494561157511,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : -0.07193159645309777,
+      "dataYear" : 4.0,
+      "dateCalculated" : 1494561157511,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : -0.008458590152479073,
+      "dataYear" : 5.0,
+      "dateCalculated" : 1494561157511,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0.06034758502291582,
+      "dataYear" : 6.0,
+      "dateCalculated" : 1494561157511,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : -0.011772378076662982,
+      "dataYear" : 7.0,
+      "dateCalculated" : 1494561157511,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0,
+      "dataYear" : 8.0,
+      "dateCalculated" : 1494561157511,
+      "type" : "ROIC Growth to Current"
+    } ],
+    "ROIC Growth Rate" : [ {
+      "value" : 0,
+      "dataYear" : 2010,
+      "dateCalculated" : 1494561157511,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : -0.35239616613418523,
+      "dataYear" : 2011,
+      "dateCalculated" : 1494561157511,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : 0.4829797730636407,
+      "dataYear" : 2012,
+      "dateCalculated" : 1494561157511,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : 0.29191616766467066,
+      "dataYear" : 2013,
+      "dateCalculated" : 1494561157511,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : -0.31762585296768375,
+      "dataYear" : 2014,
+      "dateCalculated" : 1494561157511,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : -0.013207547169811318,
+      "dataYear" : 2015,
+      "dateCalculated" : 1494561157511,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : 0.021414913957934933,
+      "dataYear" : 2016,
+      "dateCalculated" : 1494561157511,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : 0.07862223886184938,
+      "dataYear" : 2017.0,
+      "dateCalculated" : 1494561157511,
+      "type" : "ROIC Growth Rate"
+    } ]
+  }
+}

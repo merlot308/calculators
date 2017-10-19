@@ -1,0 +1,19 @@
+{
+  "ticker" : "ABUS",
+  "companyName" : null,
+  "date" : null,
+  "shares" : null,
+  "netIncome" : null,
+  "netCashFromOperatingActivities" : null,
+  "purchaseOfPlantPropertyAndEquipment" : null,
+  "annuals" : {
+    "Return on Investment Capitol" : [ {
+      "value" : 0.0,
+      "dataYear" : 2017.0,
+      "dateCalculated" : 1494561020585,
+      "type" : "Return on Investment Capitol"
+    } ],
+    "ROIC Growth to Current" : [ ],
+    "ROIC Growth Rate" : [ ]
+  }
+}

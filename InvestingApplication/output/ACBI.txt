@@ -1,0 +1,79 @@
+{
+  "ticker" : "ACBI",
+  "companyName" : null,
+  "date" : null,
+  "shares" : null,
+  "netIncome" : null,
+  "netCashFromOperatingActivities" : null,
+  "purchaseOfPlantPropertyAndEquipment" : null,
+  "annuals" : {
+    "Return on Investment Capitol" : [ {
+      "value" : 0,
+      "dataYear" : 2013,
+      "dateCalculated" : 1494561028696,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.006592,
+      "dataYear" : 2014,
+      "dateCalculated" : 1494561028696,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : -0.000554,
+      "dataYear" : 2015,
+      "dateCalculated" : 1494561028696,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.005927,
+      "dataYear" : 2016,
+      "dateCalculated" : 1494561028696,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.006033,
+      "dataYear" : 2017.0,
+      "dateCalculated" : 1494561028291,
+      "type" : "Return on Investment Capitol"
+    } ],
+    "ROIC Growth to Current" : [ {
+      "value" : 0.017884258478150894,
+      "dataYear" : 1.0,
+      "dateCalculated" : 1494561028696,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0,
+      "dataYear" : 2.0,
+      "dateCalculated" : 1494561028696,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : -0.029105497003544145,
+      "dataYear" : 3.0,
+      "dateCalculated" : 1494561028696,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0,
+      "dataYear" : 4.0,
+      "dateCalculated" : 1494561028696,
+      "type" : "ROIC Growth to Current"
+    } ],
+    "ROIC Growth Rate" : [ {
+      "value" : 0,
+      "dataYear" : 2014,
+      "dateCalculated" : 1494561028696,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : -1.0840412621359223,
+      "dataYear" : 2015,
+      "dateCalculated" : 1494561028696,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : -11.6985559566787,
+      "dataYear" : 2016,
+      "dateCalculated" : 1494561028696,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : 0.017884258478150894,
+      "dataYear" : 2017.0,
+      "dateCalculated" : 1494561028696,
+      "type" : "ROIC Growth Rate"
+    } ]
+  }
+}

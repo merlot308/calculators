@@ -1,0 +1,139 @@
+{
+  "ticker" : "ABG",
+  "companyName" : null,
+  "date" : null,
+  "shares" : null,
+  "netIncome" : null,
+  "netCashFromOperatingActivities" : null,
+  "purchaseOfPlantPropertyAndEquipment" : null,
+  "annuals" : {
+    "Return on Investment Capitol" : [ {
+      "value" : 0,
+      "dataYear" : 2009,
+      "dateCalculated" : 1494561007809,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.062551,
+      "dataYear" : 2010,
+      "dateCalculated" : 1494561007809,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.067306,
+      "dataYear" : 2011,
+      "dateCalculated" : 1494561007809,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.089152,
+      "dataYear" : 2012,
+      "dateCalculated" : 1494561007809,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.090945,
+      "dataYear" : 2013,
+      "dateCalculated" : 1494561007809,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.092575,
+      "dataYear" : 2014,
+      "dateCalculated" : 1494561007809,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.096217,
+      "dataYear" : 2015,
+      "dateCalculated" : 1494561007809,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.093833,
+      "dataYear" : 2016,
+      "dateCalculated" : 1494561007809,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.093916,
+      "dataYear" : 2017.0,
+      "dateCalculated" : 1494561007210,
+      "type" : "Return on Investment Capitol"
+    } ],
+    "ROIC Growth to Current" : [ {
+      "value" : 0.0008845502115459869,
+      "dataYear" : 1.0,
+      "dateCalculated" : 1494561007809,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : -0.012029703295564298,
+      "dataYear" : 2.0,
+      "dateCalculated" : 1494561007809,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0.004805388669747668,
+      "dataYear" : 3.0,
+      "dateCalculated" : 1494561007809,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0.008068838404969414,
+      "dataYear" : 4.0,
+      "dateCalculated" : 1494561007809,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0.010465986792813853,
+      "dataYear" : 5.0,
+      "dateCalculated" : 1494561007809,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0.057095687262309625,
+      "dataYear" : 6.0,
+      "dateCalculated" : 1494561007809,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0.05977835974142387,
+      "dataYear" : 7.0,
+      "dateCalculated" : 1494561007809,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0,
+      "dataYear" : 8.0,
+      "dateCalculated" : 1494561007809,
+      "type" : "ROIC Growth to Current"
+    } ],
+    "ROIC Growth Rate" : [ {
+      "value" : 0,
+      "dataYear" : 2010,
+      "dateCalculated" : 1494561007809,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : 0.0760179693370211,
+      "dataYear" : 2011,
+      "dateCalculated" : 1494561007809,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : 0.3245773036579205,
+      "dataYear" : 2012,
+      "dateCalculated" : 1494561007809,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : 0.020111719310839993,
+      "dataYear" : 2013,
+      "dateCalculated" : 1494561007809,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : 0.01792292044642374,
+      "dataYear" : 2014,
+      "dateCalculated" : 1494561007809,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : 0.03934107480421267,
+      "dataYear" : 2015,
+      "dateCalculated" : 1494561007809,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : -0.024777326252117593,
+      "dataYear" : 2016,
+      "dateCalculated" : 1494561007809,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : 0.0008845502115459869,
+      "dataYear" : 2017.0,
+      "dateCalculated" : 1494561007809,
+      "type" : "ROIC Growth Rate"
+    } ]
+  }
+}

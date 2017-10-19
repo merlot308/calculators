@@ -1,0 +1,139 @@
+{
+  "ticker" : "ACXM",
+  "companyName" : null,
+  "date" : null,
+  "shares" : null,
+  "netIncome" : null,
+  "netCashFromOperatingActivities" : null,
+  "purchaseOfPlantPropertyAndEquipment" : null,
+  "annuals" : {
+    "Return on Investment Capitol" : [ {
+      "value" : 0,
+      "dataYear" : 2009,
+      "dateCalculated" : 1494561068227,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.065622,
+      "dataYear" : 2010,
+      "dateCalculated" : 1494561068229,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 8.742104,
+      "dataYear" : 2011,
+      "dateCalculated" : 1494561068227,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.066851,
+      "dataYear" : 2012,
+      "dateCalculated" : 1494561068229,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.097287,
+      "dataYear" : 2013,
+      "dateCalculated" : 1494561068227,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.008292,
+      "dataYear" : 2014,
+      "dateCalculated" : 1494561068227,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : -0.032984,
+      "dataYear" : 2015,
+      "dateCalculated" : 1494561068227,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : -0.007999,
+      "dataYear" : 2016,
+      "dateCalculated" : 1494561068227,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.023988,
+      "dataYear" : 2017.0,
+      "dateCalculated" : 1494561067597,
+      "type" : "Return on Investment Capitol"
+    } ],
+    "ROIC Growth to Current" : [ {
+      "value" : -3.9988748593574197,
+      "dataYear" : 1.0,
+      "dateCalculated" : 1494561068229,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0,
+      "dataYear" : 2.0,
+      "dateCalculated" : 1494561068229,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0.4248798631106223,
+      "dataYear" : 3.0,
+      "dateCalculated" : 1494561068229,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : -0.29533158270651005,
+      "dataYear" : 4.0,
+      "dateCalculated" : 1494561068229,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : -0.18533843642179504,
+      "dataYear" : 5.0,
+      "dateCalculated" : 1494561068229,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : -0.6258351279841732,
+      "dataYear" : 6.0,
+      "dateCalculated" : 1494561068229,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : -0.1339090290156072,
+      "dataYear" : 7.0,
+      "dateCalculated" : 1494561068229,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0,
+      "dataYear" : 8.0,
+      "dateCalculated" : 1494561068229,
+      "type" : "ROIC Growth to Current"
+    } ],
+    "ROIC Growth Rate" : [ {
+      "value" : 0,
+      "dataYear" : 2010,
+      "dateCalculated" : 1494561068229,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : 132.21910334948643,
+      "dataYear" : 2011,
+      "dateCalculated" : 1494561068229,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : -0.9923529850479931,
+      "dataYear" : 2012,
+      "dateCalculated" : 1494561068229,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : 0.45528114762681193,
+      "dataYear" : 2013,
+      "dateCalculated" : 1494561068229,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : -0.9147676462425607,
+      "dataYear" : 2014,
+      "dateCalculated" : 1494561068229,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : -4.977809937288953,
+      "dataYear" : 2015,
+      "dateCalculated" : 1494561068229,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : -0.7574884792626728,
+      "dataYear" : 2016,
+      "dateCalculated" : 1494561068229,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : -3.9988748593574197,
+      "dataYear" : 2017.0,
+      "dateCalculated" : 1494561068229,
+      "type" : "ROIC Growth Rate"
+    } ]
+  }
+}

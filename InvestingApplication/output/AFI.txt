@@ -1,0 +1,64 @@
+{
+  "ticker" : "AFI",
+  "companyName" : null,
+  "date" : null,
+  "shares" : null,
+  "netIncome" : null,
+  "netCashFromOperatingActivities" : null,
+  "purchaseOfPlantPropertyAndEquipment" : null,
+  "annuals" : {
+    "Return on Investment Capitol" : [ {
+      "value" : 0,
+      "dataYear" : 2014,
+      "dateCalculated" : 1494561136830,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : -0.012923,
+      "dataYear" : 2015,
+      "dateCalculated" : 1494561136830,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.019581,
+      "dataYear" : 2016,
+      "dateCalculated" : 1494561136830,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.010122,
+      "dataYear" : 2017.0,
+      "dateCalculated" : 1494561136377,
+      "type" : "Return on Investment Capitol"
+    } ],
+    "ROIC Growth to Current" : [ {
+      "value" : -0.48307032327256016,
+      "dataYear" : 1.0,
+      "dateCalculated" : 1494561136830,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0,
+      "dataYear" : 2.0,
+      "dateCalculated" : 1494561136830,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0,
+      "dataYear" : 3.0,
+      "dateCalculated" : 1494561136830,
+      "type" : "ROIC Growth to Current"
+    } ],
+    "ROIC Growth Rate" : [ {
+      "value" : 0,
+      "dataYear" : 2015,
+      "dateCalculated" : 1494561136830,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : -2.515205447651474,
+      "dataYear" : 2016,
+      "dateCalculated" : 1494561136830,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : -0.48307032327256016,
+      "dataYear" : 2017.0,
+      "dateCalculated" : 1494561136830,
+      "type" : "ROIC Growth Rate"
+    } ]
+  }
+}

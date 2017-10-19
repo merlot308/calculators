@@ -1,0 +1,49 @@
+{
+  "ticker" : "ADAP",
+  "companyName" : null,
+  "date" : null,
+  "shares" : null,
+  "netIncome" : null,
+  "netCashFromOperatingActivities" : null,
+  "purchaseOfPlantPropertyAndEquipment" : null,
+  "annuals" : {
+    "Return on Investment Capitol" : [ {
+      "value" : 0,
+      "dataYear" : 2014,
+      "dateCalculated" : 1494561070686,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : -22.031575,
+      "dataYear" : 2016,
+      "dateCalculated" : 1494561070685,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : -1.87677,
+      "dataYear" : 2017.0,
+      "dateCalculated" : 1494561070061,
+      "type" : "Return on Investment Capitol"
+    } ],
+    "ROIC Growth to Current" : [ {
+      "value" : -0.9148145332324176,
+      "dataYear" : 1.0,
+      "dateCalculated" : 1494561070686,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0,
+      "dataYear" : 3.0,
+      "dateCalculated" : 1494561070686,
+      "type" : "ROIC Growth to Current"
+    } ],
+    "ROIC Growth Rate" : [ {
+      "value" : 0,
+      "dataYear" : 2016,
+      "dateCalculated" : 1494561070686,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : -0.9148145332324176,
+      "dataYear" : 2017.0,
+      "dateCalculated" : 1494561070686,
+      "type" : "ROIC Growth Rate"
+    } ]
+  }
+}

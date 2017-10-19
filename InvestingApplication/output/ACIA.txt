@@ -1,0 +1,64 @@
+{
+  "ticker" : "ACIA",
+  "companyName" : null,
+  "date" : null,
+  "shares" : null,
+  "netIncome" : null,
+  "netCashFromOperatingActivities" : null,
+  "purchaseOfPlantPropertyAndEquipment" : null,
+  "annuals" : {
+    "Return on Investment Capitol" : [ {
+      "value" : 0,
+      "dataYear" : 2014,
+      "dateCalculated" : 1494561043444,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0,
+      "dataYear" : 2015,
+      "dateCalculated" : 1494561043444,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 2.61688,
+      "dataYear" : 2016,
+      "dateCalculated" : 1494561043444,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 1.012302,
+      "dataYear" : 2017.0,
+      "dateCalculated" : 1494561042820,
+      "type" : "Return on Investment Capitol"
+    } ],
+    "ROIC Growth to Current" : [ {
+      "value" : -0.6131645318088716,
+      "dataYear" : 1.0,
+      "dateCalculated" : 1494561043445,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0,
+      "dataYear" : 2.0,
+      "dateCalculated" : 1494561043445,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0,
+      "dataYear" : 3.0,
+      "dateCalculated" : 1494561043444,
+      "type" : "ROIC Growth to Current"
+    } ],
+    "ROIC Growth Rate" : [ {
+      "value" : 0,
+      "dataYear" : 2015,
+      "dateCalculated" : 1494561043444,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : 0,
+      "dataYear" : 2016,
+      "dateCalculated" : 1494561043444,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : -0.6131645318088716,
+      "dataYear" : 2017.0,
+      "dateCalculated" : 1494561043444,
+      "type" : "ROIC Growth Rate"
+    } ]
+  }
+}

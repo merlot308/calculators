@@ -1,0 +1,169 @@
+{
+  "ticker" : "ADBE",
+  "companyName" : null,
+  "date" : null,
+  "shares" : null,
+  "netIncome" : null,
+  "netCashFromOperatingActivities" : null,
+  "purchaseOfPlantPropertyAndEquipment" : null,
+  "annuals" : {
+    "Return on Investment Capitol" : [ {
+      "value" : 0,
+      "dataYear" : 2007,
+      "dateCalculated" : 1494561073143,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.303232,
+      "dataYear" : 2008,
+      "dateCalculated" : 1494561073143,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.113105,
+      "dataYear" : 2009,
+      "dateCalculated" : 1494561073142,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.198152,
+      "dataYear" : 2010,
+      "dateCalculated" : 1494561073143,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.204896,
+      "dataYear" : 2011,
+      "dateCalculated" : 1494561073143,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.194769,
+      "dataYear" : 2012,
+      "dateCalculated" : 1494561073143,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.07097,
+      "dataYear" : 2013,
+      "dateCalculated" : 1494561073142,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.063751,
+      "dataYear" : 2014,
+      "dateCalculated" : 1494561073143,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.137396,
+      "dataYear" : 2015,
+      "dateCalculated" : 1494561073142,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.256719,
+      "dataYear" : 2016,
+      "dateCalculated" : 1494561073143,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.278653,
+      "dataYear" : 2017.0,
+      "dateCalculated" : 1494561072521,
+      "type" : "Return on Investment Capitol"
+    } ],
+    "ROIC Growth to Current" : [ {
+      "value" : 0.08543972203070282,
+      "dataYear" : 1.0,
+      "dateCalculated" : 1494561073143,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0.4241142000440985,
+      "dataYear" : 2.0,
+      "dateCalculated" : 1494561073143,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0.6350294285830114,
+      "dataYear" : 3.0,
+      "dateCalculated" : 1494561073143,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0.40765824831028086,
+      "dataYear" : 4.0,
+      "dateCalculated" : 1494561073143,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0.0742584481112234,
+      "dataYear" : 5.0,
+      "dateCalculated" : 1494561073143,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0.052579822411047195,
+      "dataYear" : 6.0,
+      "dateCalculated" : 1494561073143,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0.04991026153746603,
+      "dataYear" : 7.0,
+      "dateCalculated" : 1494561073143,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0.11930318581737231,
+      "dataYear" : 8.0,
+      "dateCalculated" : 1494561073143,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : -0.009348353116501618,
+      "dataYear" : 9.0,
+      "dateCalculated" : 1494561073143,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0,
+      "dataYear" : 10.0,
+      "dateCalculated" : 1494561073143,
+      "type" : "ROIC Growth to Current"
+    } ],
+    "ROIC Growth Rate" : [ {
+      "value" : 0,
+      "dataYear" : 2008,
+      "dateCalculated" : 1494561073143,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : -0.6270017676234698,
+      "dataYear" : 2009,
+      "dateCalculated" : 1494561073143,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : 0.7519296229167587,
+      "dataYear" : 2010,
+      "dateCalculated" : 1494561073143,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : 0.034034478582098515,
+      "dataYear" : 2011,
+      "dateCalculated" : 1494561073143,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : -0.049425074183976236,
+      "dataYear" : 2012,
+      "dateCalculated" : 1494561073143,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : -0.6356196314608586,
+      "dataYear" : 2013,
+      "dateCalculated" : 1494561073143,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : -0.10171903621248424,
+      "dataYear" : 2014,
+      "dateCalculated" : 1494561073143,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : 1.1551975655283835,
+      "dataYear" : 2015,
+      "dateCalculated" : 1494561073143,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : 0.8684605083117412,
+      "dataYear" : 2016,
+      "dateCalculated" : 1494561073143,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : 0.08543972203070282,
+      "dataYear" : 2017.0,
+      "dateCalculated" : 1494561073143,
+      "type" : "ROIC Growth Rate"
+    } ]
+  }
+}

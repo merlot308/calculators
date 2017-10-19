@@ -1,0 +1,64 @@
+{
+  "ticker" : "AFCO",
+  "companyName" : null,
+  "date" : null,
+  "shares" : null,
+  "netIncome" : null,
+  "netCashFromOperatingActivities" : null,
+  "purchaseOfPlantPropertyAndEquipment" : null,
+  "annuals" : {
+    "Return on Investment Capitol" : [ {
+      "value" : 0,
+      "dataYear" : 2013,
+      "dateCalculated" : 1494561133956,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.007543,
+      "dataYear" : 2014,
+      "dateCalculated" : 1494561133956,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : -0.057022,
+      "dataYear" : 2015,
+      "dateCalculated" : 1494561133956,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : -0.058783,
+      "dataYear" : 2017.0,
+      "dateCalculated" : 1494561133641,
+      "type" : "Return on Investment Capitol"
+    } ],
+    "ROIC Growth to Current" : [ {
+      "value" : 0.015323996150140129,
+      "dataYear" : 2.0,
+      "dateCalculated" : 1494561133956,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0,
+      "dataYear" : 3.0,
+      "dateCalculated" : 1494561133956,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0,
+      "dataYear" : 4.0,
+      "dateCalculated" : 1494561133956,
+      "type" : "ROIC Growth to Current"
+    } ],
+    "ROIC Growth Rate" : [ {
+      "value" : 0,
+      "dataYear" : 2014,
+      "dateCalculated" : 1494561133956,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : -8.559591674400107,
+      "dataYear" : 2015,
+      "dateCalculated" : 1494561133956,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : 0.015323996150140129,
+      "dataYear" : 2017.0,
+      "dateCalculated" : 1494561133956,
+      "type" : "ROIC Growth Rate"
+    } ]
+  }
+}

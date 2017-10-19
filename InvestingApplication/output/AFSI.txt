@@ -1,0 +1,139 @@
+{
+  "ticker" : "AFSI",
+  "companyName" : null,
+  "date" : null,
+  "shares" : null,
+  "netIncome" : null,
+  "netCashFromOperatingActivities" : null,
+  "purchaseOfPlantPropertyAndEquipment" : null,
+  "annuals" : {
+    "Return on Investment Capitol" : [ {
+      "value" : 0,
+      "dataYear" : 2009,
+      "dateCalculated" : 1494561141739,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.088365,
+      "dataYear" : 2010,
+      "dateCalculated" : 1494561141739,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.099034,
+      "dataYear" : 2011,
+      "dateCalculated" : 1494561141739,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.098841,
+      "dataYear" : 2012,
+      "dateCalculated" : 1494561141739,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.103354,
+      "dataYear" : 2013,
+      "dateCalculated" : 1494561141739,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.117891,
+      "dataYear" : 2014,
+      "dateCalculated" : 1494561141739,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.108098,
+      "dataYear" : 2015,
+      "dateCalculated" : 1494561141739,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.087672,
+      "dataYear" : 2016,
+      "dateCalculated" : 1494561141739,
+      "type" : "Return on Investment Capitol"
+    }, {
+      "value" : 0.072371,
+      "dataYear" : 2017.0,
+      "dateCalculated" : 1494561141134,
+      "type" : "Return on Investment Capitol"
+    } ],
+    "ROIC Growth to Current" : [ {
+      "value" : -0.17452550415183865,
+      "dataYear" : 1.0,
+      "dateCalculated" : 1494561141739,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : -0.18177365740187024,
+      "dataYear" : 2.0,
+      "dateCalculated" : 1494561141739,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : -0.15011276303835552,
+      "dataYear" : 3.0,
+      "dateCalculated" : 1494561141739,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : -0.08523546034930984,
+      "dataYear" : 4.0,
+      "dateCalculated" : 1494561141739,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : -0.060437902846222635,
+      "dataYear" : 5.0,
+      "dateCalculated" : 1494561141739,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : -0.050933358345899404,
+      "dataYear" : 6.0,
+      "dateCalculated" : 1494561141739,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : -0.028121350141170565,
+      "dataYear" : 7.0,
+      "dateCalculated" : 1494561141739,
+      "type" : "ROIC Growth to Current"
+    }, {
+      "value" : 0,
+      "dataYear" : 8.0,
+      "dateCalculated" : 1494561141739,
+      "type" : "ROIC Growth to Current"
+    } ],
+    "ROIC Growth Rate" : [ {
+      "value" : 0,
+      "dataYear" : 2010,
+      "dateCalculated" : 1494561141739,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : 0.12073784869575066,
+      "dataYear" : 2011,
+      "dateCalculated" : 1494561141739,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : -0.0019488256558353179,
+      "dataYear" : 2012,
+      "dateCalculated" : 1494561141739,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : 0.045659190012241835,
+      "dataYear" : 2013,
+      "dateCalculated" : 1494561141739,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : 0.1406525146583586,
+      "dataYear" : 2014,
+      "dateCalculated" : 1494561141739,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : -0.08306825796710515,
+      "dataYear" : 2015,
+      "dateCalculated" : 1494561141739,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : -0.18895816758866957,
+      "dataYear" : 2016,
+      "dateCalculated" : 1494561141739,
+      "type" : "ROIC Growth Rate"
+    }, {
+      "value" : -0.17452550415183865,
+      "dataYear" : 2017.0,
+      "dateCalculated" : 1494561141739,
+      "type" : "ROIC Growth Rate"
+    } ]
+  }
+}
